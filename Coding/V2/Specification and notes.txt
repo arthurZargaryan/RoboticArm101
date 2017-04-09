@@ -1,0 +1,27 @@
+Errors: If status is 255 and you can change led colour check the RX port is coccertly connected
+
+Striaght:
+|
+o
+|
+o
+|
+o
+=
+
+Motor 0 (Base Motor) position: 519
+Motor 1 position: 485
+Motor 2 position: 511
+Motor 3 (Tip Motor) position: 605
+
+Forward Limit:
+Motor 0 position: 501
+Motor 1 position: 706
+Motor 2 position: 283
+Motor 3 position: 829
+
+Backwards Limit:
+Motor 0 position: 499
+Motor 1 position: 259
+Motor 2 position: 750
+Motor 3 position: 383
